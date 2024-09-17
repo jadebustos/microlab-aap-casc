@@ -1,4 +1,0 @@
-:sectnums:
-
-* xref:01-setup.adoc[SetUp de Configuración como Código (CasC)]
-* xref:02-deploy.adoc[Creación y eliminación de Job Templates con CasC y GitOps]

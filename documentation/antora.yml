@@ -1,7 +1,0 @@
-name: controller-casc
-title: Gestión del Ansible Automation Controller con Configuración como Código
-version: master
-nav:
-  - modules/ROOT/nav.adoc
-
-start_page: ROOT:index.adoc
